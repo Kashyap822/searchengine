@@ -1,6 +1,10 @@
 # searchengine
-121 Search Engine
+CS 121 Search Engine
 Kevin Pradjinata, Kashyap Patel, Megan Le, Jay Yoo
+
+Description: Wrote a search engine from the ground up that is capable of handling tens 
+of thousands of documents or Web pages, under harsh operational constraints and having 
+a query response time under 300ms.
 
 How to Run the Code:
 1) run main.py through the command line "python main.py" 
