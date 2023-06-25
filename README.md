@@ -1,6 +1,6 @@
 # searchengine
 121 Search Engine
-Kevin Pradjinata, Kashyup Patel, Megan Le, Jay Yoo
+Kevin Pradjinata, Kashyap Patel, Megan Le, Jay Yoo
 
 How to Run the Code:
 1) run main.py through the command line "python main.py" 
